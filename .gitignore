@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /node_modules
 #/assets
 /.sass-cache
@@ -5,3 +6,7 @@
 .DS_Store
 /.idea/
 *.iml
+=======
+node_modules
+
+>>>>>>> 6cf9eabdd60ee76a78cab96cf2be5d53abdfabe8
