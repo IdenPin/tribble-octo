@@ -4,10 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
-=======
-    "start": "node index.js",
->>>>>>> 6cf9eabdd60ee76a78cab96cf2be5d53abdfabe8
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,10 +18,7 @@
   "homepage": "https://github.com/IdenPin/tribble-octo#readme",
   "dependencies": {
     "express": "^4.13.4",
-<<<<<<< HEAD
-    "mysql": "^2.10.2"
-=======
+    "mysql": "^2.10.2",
     "express-stormpath": "^3.1.2"
->>>>>>> 6cf9eabdd60ee76a78cab96cf2be5d53abdfabe8
   }
 }
